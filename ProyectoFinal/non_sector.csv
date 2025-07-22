@@ -1,0 +1,73 @@
+Frecuencia,Ruta,ID,Ubicación,Campanas,"(lat, long)"
+quincenal,jueves1,[ 9 16 53],"['Av 5 Pte 2522, La Paz, 72160 Puebla, Pue.'
+ 'Blvd. Hermanos Serdán 203, Valle del Rey, 72140 Puebla, Pue.'
+ 'Calle 7 Norte y 14 Poniente, La Gloria II, 72130 Puebla, Pue.']",7,"[(19.052957, -98.2182879) (19.0621559, -98.2232578)
+ (19.0520961, -98.2000494)]"
+quincenal,lunes1,[51],"['Libramiento Tehuacán S/N, Maravillas, 72220 Puebla, Pue.']",1,"[(19.0716341, -98.1659513)]"
+quincenal,lunes2,[ 4 10 28 35 36 38 40 60 61],"['C. 11-J 4_2, Bosques de San Sebastián, 72310 Puebla, Pue.'
+ ' Blvd. Xonacatepec 1871, Proletaria Lázaro Cárdenas, 72310 Puebla, Pue.'
+ ' Blvd. Vicente Suárez 1011, El Cristo, 72340 Puebla, Pue.\n'
+ 'Calle 5 de Mayo (en las cancha deportiva enfrente de la iglesia de San Sebastián ) 72219 San Sebastián de Aparicio, Pue.'
+ 'C. 18 Sur, entre 119 Ote y 121 Ote. Los Héroes de Puebla,72590 Puebla, Pue.'
+ 'Calle 121 A oriente, entre 16 sur y diagonal 18 a sur. Los Héroes de Puebla, Puebla, Pue.'
+ 'Calle 18 sur frente de la estancia infantil Karly y sus peques, entre calles 115 C oriente y calle 117 oriente, Los Héroes de Puebla, 72590 Puebla, Pue.'
+ 'Av. Apulco  entre calle Tecamachalco y Av. Independencia, Arboledas de Guadalupe Secc. Fuentes, 72260 Puebla, Pue.'
+ 'Calle 4-J 431, Bosques de San Sebastián, 72310 Puebla, Pue.']",17,"[(19.0670441, -98.124886) (19.0517766, -98.1501579)
+ (19.0431072, -98.1636835) (19.1005473, -98.1625362)
+ (18.9681753, -98.2143154) (18.963512, -98.2159168)
+ (18.9715124, -98.2142912) (19.0055779, -98.2266473)
+ (19.0675355, -98.1214481)]"
+quincenal,martes1,[39 56],"[' Avenida 59 Poniente,  entre  5 B sur y 5 sur. Villa Encantada, 72440 Puebla, Pue. '
+ 'Circuito, Pl. Central, INFONAVIT Loma Bella, 72490 Puebla, Pue.']",4,"[(19.0178583, -98.2195835) (18.9888393, -98.2358056)]"
+quincenal,martes2,[29 33 34],"['Av. 9 Sur 11302, Col 69, Popular Coatepec, 72490 Puebla, Pue.'
+ '3er. Andador de los Rosales, cerrada Jazmín  INFONAVIT San Ramón Puebla, Pue.'
+ 'C. San Bartolo Norte ""A"", Salón Social, INFONAVIT San Bartolo, Puebla, Pue.']",4,"[(18.9873075, -98.2404573) (18.9697518, -98.2624547)
+ (18.9922697, -98.2421365)]"
+quincenal,miercoles2,[17 32 41 62],"['C.111 D Oriente S/N , Los Héroes Puebla 1° Sección'
+ '111 A Oriente andador 14 A Sur, INFONAVIT San Jorge, 72587 Puebla, Pue.'
+ 'Av. Eduardo Cue Merlo (Enfrente del DIF Municipal) San Baltazar Campeche, 72550 Puebla, Pue.\n'
+ 'Prol.11 Sur  y calle Dr. Lopez, MayorazgoDr. López 5714, Molino de Enmedio, 72456 Puebla, Pue.']",7,"[(18.9822436, -98.2172305) (18.985706, -98.2187846)
+ (19.0241855, -98.207871) (19.0219145, -98.2252238)]"
+quincenal,sabado1,[ 6 15 44 50],"['Blvrd Héroes del 5 de Mayo 418, Barrio de Xanenetla, 72290 Puebla, Pue.'
+ 'Avenida Ocote  S/N U. Civica 5 de Mayo Los Fuertes'
+ 'C. Tamarindo entre  avenida Ejercito de Oriente y calle Mango, Arboledas de Guadalupe, 72260 Puebla, Pue.\n'
+ 'Avenida Xonaca esquina calle 24 Norte, Xonaca, 72370, Puebla, Pue.\n']",7,"[(19.0516228, -98.1890073) (19.0598474, -98.1800244)
+ (19.0583477, -98.1765482) (19.0458416, -98.1794541)]"
+quincenal,sabado2,[18 47 48 49 52 58],"['C. 15 Sur entre 17 y 19 Poniente, Barrio de Santiago, 72410 Puebla, Pue.'
+ 'C. 15 Ote y privada 16 de Septiembre, el Carmen,72530 Puebla, Pue. \n'
+ 'Blvrd Héroes del 5 de Mayo, (a un costado de la pista de atletismo del CENHCH) El Ángel, Puebla, Pue.\n'
+ 'Esquina calle 13 Sur y avenida 11 Pte, Centro histórico de Puebla, 72000 Puebla, Pue.\n'
+ 'Av. 4 Pte. 1104, Historiadores, 72090 Puebla, Pue.'
+ 'Calle Citlaltepetl entre Blvd. Atlixco y calle Amalucan, La Paz, 72160 Puebla, Pue.']",15,"[(19.0376155, -98.2030211) (19.038751, -98.201035)
+ (19.0350855, -98.1949534) (19.0450505, -98.2095151)
+ (19.0509367, -98.2058561) (19.0059546, -98.1922337)]"
+quincenal,viernes1,[42 45 46 57],"['Río Lerma frente al número 5331, Jardines de San Manuel, 72570 Puebla, Pue.\n'
+ 'Calle Víctor Hugo con esquina calle Jalisco, el Carmen, 72530 Puebla, Pue.\n'
+ 'Privada A Ote de la 16 de Septiembre,  entre calle Sofía y avenida 43 Ote, el Carmen Huexotitla, 72534 Puebla, Pue.'
+ 'Paseo de San Francisco y av. 16 oriente, Barrio del Alto, 72290 Puebla, Pue.\n']",7,"[(19.0128088, -98.2040248) (19.0344009, -98.2013085)
+ (19.029927, -98.2061289) (19.0460361, -98.1880918)]"
+quincenal,viernes2,[ 8 19],"['Av. San Cristobal la Calera, Rincones de la Calera, 72520 Puebla, Pue.'
+ 'Calle 24 Sur S/N, Azcarate, 72501 Puebla, Pue.']",6,"[(19.0147648, -98.1762601) (19.0322957, -98.1867619)]"
+semanal,jueves1y2,[14 22 23 30],"['Blvd. Hermanos Serdán 630, Pino Suárez, 72020 Puebla, Pue.'
+ 'Blvrd Nte 2210, Las Hadas Mundial 86, 72070 Puebla, Pue.'
+ 'Calle Italia, Las Hadas Mundial 86, 72070 Puebla, Pue.'
+ 'Prol. Reforma Sur 3117, La Paz, 72160 Puebla, Pue.']",8,"[(19.0796054, -98.2273753) (19.0661768, -98.2114939)
+ (19.0646005, -98.2116082) (19.057814, -98.2238612)]"
+semanal,lunes1y2,[ 3 12],"['Blvd. Valsequillo 7716, Ex hacienda, San José Xilotzingo, 72590 Puebla, Pue.'
+ 'Av. José Ma. Lafragua 8301, San José Xilotzingo, 72576 Puebla, Pue.']",4,"[(18.9928585, -98.2006235) (18.9881294, -98.1971213)]"
+semanal,martes1y2,[ 5 11 21 27 54 55],"['Calle 11 Sur 11904, INFONAVIT Agua Santa, 72490 Puebla, Pue.'
+ 'Prolongacion 16 de Septiembre Sur 3 No. 14101, El Refugio, 72495 Puebla, Pue.'
+ 'Blvrd Atlixco 37, San José Vista Hermosa, 72190 Puebla, Pue.'
+ ' Blvd. Municipio Libre 555, Jardín, 72490 Puebla, Pue.'
+ 'C. 15-A Sur, San José Mayorazgo, 72450 Puebla, Pue.'
+ 'Av. 131 Pte. esquina 29 Sur, Sta Clara, 72494 Puebla, Pue.']",14,"[(18.9872972, -98.2469354) (18.9775872, -98.2358046)
+ (19.0392281, -98.2410968) (18.9956964, -98.217659)
+ (19.0087876, -98.234101) (18.9887522, -98.2705308)]"
+semanal,miercoles1y2,[ 1 24 25],"['C. 11 Sur 3104, Insurgentes Chula Vista, 72420 Puebla, Pue.'
+ 'Cto Juan Pablo II número 1920, Reserva Territorial Atlixcáyotl, La Noria, Puebla, Pue.'
+ ' Prol. de la 14 Sur 1130, Exhacienda de Chapulco, Los Héroes Puebla 1° Sección, 72590 Puebla, Pue.']",6,"[(19.0354742, -98.2122414) (19.0339, -98.2229569)
+ (18.9813749, -98.2164278)]"
+semanal,sabado1y2,[7],"['5 Sur S/N  entre 17 y 19 Poniente, Chulavista, 72410 Puebla, Pue. (Estacionamiento)']",2,"[(19.0376155, -98.2030211)]"
+semanal,viernes1y2,[ 2 31 43],"['Av. San Baltazar 3230, Centro Comercial Bodega Aurrera, Ex Hacienda la Margarita, 72560 Puebla, Pue.'
+ 'Diag. Ignacio Zaragoza 1404, Jardines de San Manuel, 72570 Puebla, Pue.'
+ 'Av San Francisco, San Baltazar Campeche, 72550 Puebla, Pue.\n']",5,"[(19.0113518, -98.187642) (19.0196838, -98.1984026) (19.0141, -98.2074177)]"
